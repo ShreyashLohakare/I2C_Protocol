@@ -1,0 +1,4 @@
+This project has all the files related to i2c 
+1] Master module files
+2] Application files
+3] top module which is combination of above both
