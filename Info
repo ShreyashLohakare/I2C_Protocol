@@ -1,4 +1,6 @@
-This project has all the files related to i2c 
-1] Master module files
-2] Application files
-3] top module which is combination of above both
+I2C master implementation and interfacing with MPU 9250
+
+This project has all the files related to I2C
+1] controller module files 
+2] Application module files
+3] Top module which is combination of above both
